@@ -90,9 +90,10 @@ ESP32_B:
 - Sensor Ultrasonic
 - Firebase Realtime Database
 
+---
 
-![Prototype Smart Traffic](docs/Prototype.jpeg)
+## Dokumentasi
 ![Prototype Smart Traffic](docs/Flowchart.png)
 ![Prototype Smart Traffic](docs/Desain%20Sistem%20Final.png)
-
+![Prototype Smart Traffic](docs/Prototype.jpeg)
 
