@@ -91,3 +91,6 @@ ESP32_B:
 - Firebase Realtime Database
 
 
+![Prototype Smart Traffic](docs/Prototype.jpg)
+
+
