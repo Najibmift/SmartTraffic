@@ -93,6 +93,6 @@ ESP32_B:
 
 ![Prototype Smart Traffic](docs/Prototype.jpeg)
 ![Prototype Smart Traffic](docs/Flowchart.png)
-![Prototype Smart Traffic](docs/Desain%20Sistem%20Final.jpeg)
+![Prototype Smart Traffic](docs/Desain%20Sistem%20Final.png)
 
 
